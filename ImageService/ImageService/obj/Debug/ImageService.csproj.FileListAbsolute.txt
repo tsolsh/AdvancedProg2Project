@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\ImageService\ImageService\bin\Debug\ImageService.exe.config
+C:\Users\Lenovo\source\repos\ImageService\ImageService\bin\Debug\ImageService.exe
+C:\Users\Lenovo\source\repos\ImageService\ImageService\bin\Debug\ImageService.pdb
+C:\Users\Lenovo\source\repos\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ImageService\ImageService\obj\Debug\MyNewService.ImageService.resources
+C:\Users\Lenovo\source\repos\ImageService\ImageService\obj\Debug\MyNewService.ProjectInstaller.resources
+C:\Users\Lenovo\source\repos\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.Cache
+C:\Users\Lenovo\source\repos\ImageService\ImageService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ImageService\ImageService\obj\Debug\ImageService.exe
+C:\Users\Lenovo\source\repos\ImageService\ImageService\obj\Debug\ImageService.pdb
